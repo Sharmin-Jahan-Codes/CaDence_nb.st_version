@@ -35,7 +35,7 @@ hst_df = pd.read_json('data/hst_df.json', lines=True)
 # Sidebar
 
 with st.sidebar:
-    st.image("/Users/efigueroa/Desktop/CaDence_nb.st_version/Media/logonobglittle.png")
+    st.image("/Users/sjahan/Desktop/FinalProject/CaDence_nb.st_version/CaDence.png")
     st.header('Time Zone and Week Controls')
     ##### Defaults Below
     present=['Present']
